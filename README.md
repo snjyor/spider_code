@@ -1,2 +1,1 @@
-# DjangoObject
-DjangoObject 练习仓库
+一些小爬虫代码
